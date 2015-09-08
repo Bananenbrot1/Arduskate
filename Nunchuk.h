@@ -34,7 +34,6 @@ class Nunchuk
     byte zButton;
     byte cButton;
 
-    uint8_t ctrlr_type[6];
   
     void init();    
     void update();

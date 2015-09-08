@@ -36,7 +36,7 @@ void loop() {
     speed = 90;
   }
   SkateESC.write(speed);
-  delay(30);
+  delay(70);
 }
 
 void cruiseMode(){
